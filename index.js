@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const OpenAI = require('openai');
 
 //dotenv
-const dotenv = require('dotenv') 
+const dotenv = require('dotenv')  
 dotenv.config();
 
 const app = express();
